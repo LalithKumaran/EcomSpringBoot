@@ -22,8 +22,4 @@ It is built for learning purposes to understand how Spring Boot works with REST 
 - 🌱 Spring Boot  
 - 🗄️ Spring Data JPA  
 - 🐬 MySQL Database  
-- 📦 Maven  
-
----
-
-## 📂 Project St
+- 📦 Maven
