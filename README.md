@@ -26,4 +26,4 @@ It is built for learning purposes to understand how Spring Boot works with REST 
 
 ---
 
-## 📂 Project Structur
+## 📂 Project St
